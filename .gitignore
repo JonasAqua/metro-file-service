@@ -65,3 +65,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+# pm2 setup
+ecosystem.config.js
